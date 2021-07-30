@@ -1,2 +1,1 @@
-# vision-transformer-example
-vision-transformer-example
+# Vision Transformers Examples
